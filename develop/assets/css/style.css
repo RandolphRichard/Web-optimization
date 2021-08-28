@@ -16,11 +16,12 @@ body {
     color: #ffffff;
 }
 
-/* Apply Pseudo class on Headed Navigation */
+/* Apply Pseudo class on Headed Navigation start*/
 .header :hover{
 color: #2589bd;
 text-shadow: 1px 1px 20px black;
 }
+/* Apply Pseudo class on Headed Navigation start*/
 
 .header h1 {
     display: inline-block;
